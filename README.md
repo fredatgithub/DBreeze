@@ -13,7 +13,7 @@ multi-threaded, transactional and ACID-compliant data management system for
 
 ...for servers, desktops, mobiles and internet-of-things... Made with C# 
 
-- It's a free software for those who think that it should be free.
+- It's free software for those who believe it should be free.
 - It has been used in our own production environment since June 2012.
 - Follow the project, to be in touch with the recent optimizations and enhancements.
 - DBreeze via <a href = 'https://www.nuget.org/packages/DBreeze/'  target='_blank'>NuGet</a> since January 2014. 
@@ -55,7 +55,7 @@ Key features:
 - Integrated text-search subsystem (full-text/partial).
 - Integrated object database layer.
 - Fast multi-parameter search subsystem with powerful query possibilities.
-- Integrated Vector Database and vector similarity search engine (embedding vectors store/search/clustering).
+- Integrated Vector Database / similarity search engine / clustering KMeans.
 - Integrated binary and JSON serializer [Biser.NET](https://github.com/hhblaze/Biser)
 - High Availability, Redundancy and Fault Tolerance via [Raft.NET](https://github.com/hhblaze/Raft.Net)
 - DBreeze is a foundation for complex data storage solutions (graph/neuro, object, document, text search etc. data layers). Please, study documentation to understand all abilities of DBreeze.
